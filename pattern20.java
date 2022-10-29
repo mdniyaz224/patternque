@@ -12,3 +12,13 @@ public class pattern20 {
         }
     }
 }
+/*
+ 
+A
+BB
+CCC
+DDDD
+EEEEE
+
+
+ */

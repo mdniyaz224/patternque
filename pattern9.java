@@ -6,7 +6,7 @@ public class pattern9 {
         {
             for(int j=1; j<=sp; j++)
             {
-                System.out.print(" ");
+                System.out.print("  ");
             }
             for(int j=1; j<=st; j++)
             {
@@ -25,3 +25,14 @@ public class pattern9 {
         }
     }
 }
+/*
+
+          * 
+        * * * 
+      * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
+
+ */
